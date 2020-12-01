@@ -6,7 +6,7 @@
 ## 支持原版
 Malio SSPANEL主题 + V2Ray后端，原价1000，现在只需899（V2ray 是按年订阅），👉[查看详情](https://malio.fxxkmy.life/)
 ## 推广
-[crack-soga, 一个更强大的支持v2ray,trojan,ss的后端](https://github.com/RManLuo/crack-soga-v2ray)
+[crack-soga, 一个更强大的支持v2ray,trojan,ss的后端](https://github.com/manfly17/crack-soga-v2ray)
 ## 普通安装
 ### 后端安装
 ``` bash
